@@ -1,3 +1,6 @@
+[![Thepowa753's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepowa753)]
+
+
 It is a graphical user interface for the Telegram messaging service, built in Python. 
 The GUI will offer functionality such as sending and receiving messages (in the future also files).
 
