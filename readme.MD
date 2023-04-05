@@ -1,4 +1,4 @@
-[![Thepowa753's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepowa753)]
+![Thepowa753's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepowa753&show_icons=true&theme=tokyonight)
 
 
 It is a graphical user interface for the Telegram messaging service, built in Python. 
