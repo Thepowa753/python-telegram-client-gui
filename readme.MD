@@ -17,5 +17,7 @@ The GUI will offer functionality such as sending and receiving messages (in the 
 - [ ] Populate the chat according to the selected contact (highligth the contact in. Load just x message in chat history)
 - [ ] Add details to the contact (like profile pic, last msg, last msg time)
 - [ ] Add details to the messages(like status, date, forwarded)
+- [ ] A BETTER NAME!!
+- [ ] Make it a pip module
 
 ![Thepowa753's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thepowa753&show_icons=true&theme=tokyonight)
